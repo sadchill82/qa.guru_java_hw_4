@@ -13,7 +13,6 @@ public class GithubSearchTest {
         Configuration.browserSize = "1920x1080";
         Configuration.baseUrl = "https://github.com";
         Configuration.pageLoadStrategy = "eager";
-        Configuration.browser = "firefox";
     }
 
     @Test
